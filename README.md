@@ -107,7 +107,8 @@ Page d'acceuil:
 <img width="1906" height="948" alt="home" src="https://github.com/user-attachments/assets/710364d4-c94b-4576-9018-815fb97c9964" />
 
 
-Formulaire de connexion
+Formulaire de connexion:
+
 <img width="460" height="467" alt="Capture d&#39;écran 2026-04-30 185602" src="https://github.com/user-attachments/assets/d0e2fc5d-293f-40e5-b607-39d7c6e380d6" />
 
 
